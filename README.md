@@ -1,35 +1,4 @@
-#  IMPORTANT — PROJECT EVALUATION NOTE
-
-Please note that the `backend` and `frontend` folders available directly at the repository root are older/previous versions.
-
-For evaluation, please use the **current and final Tata Legal AI implementation** located at:
-
- **[Open Current Tata Legal AI Project](https://github.com/Hariom-codes/SkyAI-Squads/tree/main/Tata-Legal-AI-Demo-Ready-Corrected-v2%20-%20Copy/Tata-Legal-AI-Demo-Ready-Corrected-v2%20copy)**
-
-This folder contains the current integrated version of the Tata Legal AI project, including the latest backend, frontend, AI workflow, RAG pipeline, human review workflow, and document persistence/retrieval implementation.
-
 # TATA GROUP : AI Legal Document Intelligence System
-
-## Team Name
-
-**SkyAI-Squads**
-
-##  Team Members
-
-- **Hariom Upadhyay** — Group Representative
-- **Tanvi Rathore**
-- **Anas Jameel**
-- **Poojitha Gaddam**
-- **Mohd Amaan Zaidi**
-- **Prabhat Kumar Sasmal**
-- **Jyoti Yadav**
-- **Vishwajit Sonawane**
-- **Suryansh Chaurasiya**
-- **Shivaji Chaudhary**
-- **Vipul Kumar**
-- **Hitesh Shrivastava**
-
-> Team roles and individual responsibilities are documented in the project presentation.
 
 ## Project Overview
 
@@ -120,41 +89,7 @@ https://eclectic-biscotti-bca046.netlify.app/
 
 **Live Backend:**
 https://skyai-squads-aco3.onrender.com/
-
-### GitHub Repository
-
-**GitHub Repository:**
-[https://github.com/Hariom-codes/SkyAI-Squads](https://github.com/Hariom-codes/SkyAI-Squads/tree/main/Tata-Legal-AI-Demo-Ready-Corrected-v2%20-%20Copy/Tata-Legal-AI-Demo-Ready-Corrected-v2%20copy)
-
-
 ---
-
-## Team Contributions
-
-1. **Hariom Upadhyay** — Team Leader / Group Representative, Product Testing and Solution, RAG, LangChain, Vector Database, LLM, Backend, Frontend and Deployment.
-
-2. **Tanvi Rathore** — Backend Handling, Backend–Frontend Integration and SQLite Database Handling.
-
-3. **Poojitha Gaddam** — OCR Handling and Text Extraction.
-
-4. **Mohmd Amaan Zaidi** — Legal Document Parsing.
-
-5. **Prabhat Kumar Sasmal** — Legal Clause Extraction.
-
-6. **Jyoti** — RAG, LangChain and LLM Handling.
-
-7. **Vishwajith Sonawane** — Human Approval and Review Handling.
-
-8. **Suryansh** — Frontend and Backend Deployment.
-
-9. **Anas Khan** — Frontend Handling and User Interface Development.
-
-10. **Shivaji** — Additional Project Contributions.
-
-11. **Vipul** — Additional Project Contributions.
-
-12. **Hitesh** — Additional Project Contributions.
-
 
 
 # Backend
@@ -768,7 +703,7 @@ Knowledge-base materials used in the demonstration should be interpreted accordi
 
 ---
 
-## 21. Team / Frontend Integration
+## 21. Frontend Integration
 
 The backend provides structured JSON responses that the frontend can consume to display:
 
@@ -854,11 +789,6 @@ The backend is designed to work with the team's current frontend upload and revi
 The core document intelligence, AI analysis, human review, persistence, and retrieval workflow is implemented and testable through the backend API.
 
 The backend is ready for frontend integration and can be further hardened for production deployment as required.
-
-
-# RAG & Langchain Pipeline
-
-###Done by : Hariom (GR) & Tanvi
 
 ## Retrieval-Augmented Generation (RAG)
 
@@ -1978,34 +1908,6 @@ The deployed frontend communicates with the production FastAPI backend through i
 ```
 
 </details>
-
-
-## Team Contributions
-
-1. **Hariom Upadhyay** — Team Leader / Group Representative, Product Testing and Solution, RAG, LangChain, Vector Database, LLM, Backend, Frontend and Deployment.
-
-2. **Tanvi Rathore** — Backend Handling, Backend–Frontend Integration and SQLite Database Handling.
-
-3. **Poojitha Gaddam** — OCR Handling and Text Extraction.
-
-4. **Mohmd Amaan Zaidi** — Legal Document Parsing.
-
-5. **Prabhat Kumar Sasmal** — Legal Clause Extraction.
-
-6. **Jyoti** — RAG, LangChain and LLM Handling.
-
-7. **Vishwajith Sonawane** — Human Approval and Review Handling.
-
-8. **Suryansh** — Frontend and Backend Deployment.
-
-9. **Anas Khan** — Frontend Handling and User Interface Development.
-
-10. **Shivaji** — Additional Project Contributions.
-
-11. **Vipul** — Additional Project Contributions.
-
-12. **Hitesh** — Additional Project Contributions.
-
 
 ## Conclusion
 
